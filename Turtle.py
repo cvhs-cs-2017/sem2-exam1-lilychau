@@ -29,3 +29,5 @@ input()
 
 """Import and Call the DrawRectangle(Anyturtle, l, w) function from the
 file MyFile.py"""
+
+from MyFile.py import DrawRectangle(Anyturtle, l, w)
