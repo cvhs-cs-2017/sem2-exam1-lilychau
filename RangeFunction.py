@@ -11,3 +11,4 @@ for i in reversed(range(0,45,5)):
 
 """Write a program that will count print all the multiples of (n) where n is
 taken from user input.  Include necessary print statements."""
+n = int(input("Give me a number, and my smart computer brain will find the multiples: "))
