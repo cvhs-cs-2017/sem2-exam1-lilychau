@@ -4,7 +4,32 @@
 
 Print the save the result as the variable = NoVowels
 """"
-
+def RemoveVowels(NormText):
+    CipherText = ''
+    for ch in NormText:
+        if ch == 'a':
+            CipherText += ''
+        elif ch == 'e':
+            CipherText += ''
+        elif ch == 'i':
+            CipherText += ''
+        elif ch == 'o':
+            CipherText += ''
+        elif ch == 'u':
+            CipherText += ''
+        elif ch == 'A':
+            CipherText += ''
+        elif ch == 'E':
+            CipherText += ''
+        elif ch == 'I':
+            CipherText += ''
+        elif ch == 'O':
+            CipherText += ''
+        elif ch == 'U':
+            CipherText += ''
+        else:
+            CipherText += ch
+    return CipherText
 
 
 
