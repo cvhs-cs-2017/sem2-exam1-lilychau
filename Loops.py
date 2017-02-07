@@ -9,7 +9,7 @@ while N >= 100:
     n += 5
     c += 1
     
-print(N)
+print('your answer is', str(N))
 
 
 
