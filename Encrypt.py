@@ -32,7 +32,7 @@ def RemoveVowels(NormText):
     return CipherText
 
 
-
+#the sign += means its adding on. For example, a += b means a = a + b
 
 
 """Write an encryption code that you make up and run it for the variable NoVowels"""
